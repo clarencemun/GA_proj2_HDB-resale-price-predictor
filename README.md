@@ -1,5 +1,7 @@
 # Project 2: HDB Resale Trends: Predicting Home Values for New and Expecting Families
 
+![App screenshot](screenshot.png)
+
 
 ### Goals
 
